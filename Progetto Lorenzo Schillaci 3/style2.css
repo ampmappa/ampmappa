@@ -1,0 +1,284 @@
+.desktop-8,
+.desktop-8 * {
+  box-sizing: border-box;
+}
+.desktop-8 {
+  background: #ffffff;
+  width: 1440px;
+  height: 2688px;
+  position: relative;
+  overflow: hidden;
+}
+.mask-group {
+  position: absolute;
+  left: 0px;
+  top: 151px;
+  overflow: visible;
+}
+.amp-4 {
+  width: 381.13px;
+  height: 204px;
+  position: absolute;
+  left: 505px;
+  top: 395px;
+}
+.rectangle-3 {
+  position: absolute;
+  left: 0px;
+  top: -0.5px;
+  overflow: visible;
+}
+.home {
+  color: #1d71b8;
+  text-align: left;
+  font: 400 20px "Inter", sans-serif;
+  position: absolute;
+  left: 379px;
+  top: 99px;
+}
+.glossario {
+  color: #1d71b8;
+  text-align: left;
+  font: 400 20px "Inter", sans-serif;
+  position: absolute;
+  left: 561px;
+  top: 99px;
+}
+.cos-l-amp {
+  color: #1d71b8;
+  text-align: left;
+  font: 400 20px "Inter", sans-serif;
+  position: absolute;
+  left: 798px;
+  top: 99px;
+}
+.glossario2 {
+  color: #000000;
+  text-align: left;
+  font: 500 64px "Inter", sans-serif;
+  position: absolute;
+  left: 360px;
+  top: 1046px;
+}
+.scegli-l-area-che-ti-interessa-dal-glossario {
+  color: #000000;
+  text-align: left;
+  font: 400 32px "Inter", sans-serif;
+  position: absolute;
+  left: 360px;
+  top: 1144px;
+}
+.ministero-ambiente-territorio-1 {
+  width: 219px;
+  height: 123px;
+  position: absolute;
+  left: 191px;
+  top: 2502px;
+}
+.logo-universita-messina-1 {
+  width: 123px;
+  height: 123px;
+  position: absolute;
+  left: 832px;
+  top: 2502px;
+}
+.citta-di-milazzo-1 {
+  width: 124px;
+  height: 123px;
+  position: absolute;
+  left: 559px;
+  top: 2502px;
+}
+.logo-marevivo-milazzo-1 {
+  width: 149px;
+  height: 123px;
+  position: absolute;
+  left: 1104px;
+  top: 2502px;
+}
+.rectangle-13 {
+  position: absolute;
+  left: 0px;
+  top: 2128px;
+  overflow: visible;
+}
+.frame-20 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 195px;
+  top: 1363px;
+}
+.frame-19 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.rectangle-32 {
+  border-style: solid;
+  border-color: #e7aeb5;
+  border-width: 3px;
+  flex-shrink: 0;
+  width: 233px;
+  height: 232px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.zona-a {
+  color: #000000;
+  text-align: left;
+  font: 400 25px "Inter", sans-serif;
+  position: relative;
+  width: 153px;
+  height: 55px;
+}
+.frame-21 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 606px;
+  top: 1373px;
+}
+.rectangle-34 {
+  border-style: solid;
+  border-color: #e4e56f;
+  border-width: 3px;
+  flex-shrink: 0;
+  width: 232px;
+  height: 232px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.zona-b {
+  color: #000000;
+  text-align: left;
+  font: 400 25px "Inter", sans-serif;
+  position: relative;
+  width: 154px;
+  height: 55px;
+}
+.frame-22 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1005px;
+  top: 1373px;
+}
+.rectangle-36 {
+  border-style: solid;
+  border-color: #dca15e;
+  border-width: 3px;
+  flex-shrink: 0;
+  width: 232px;
+  height: 232px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.zona-bs {
+  color: #000000;
+  text-align: left;
+  font: 400 25px "Inter", sans-serif;
+  position: relative;
+  width: 153px;
+  height: 55px;
+}
+.frame-23 {
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 206px;
+  top: 1755px;
+}
+.rectangle-33 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.zona-c {
+  color: #000000;
+  text-align: left;
+  font: 400 25px "Inter", sans-serif;
+  position: relative;
+  width: 153px;
+  height: 56px;
+}
+.frame-24 {
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 606px;
+  top: 1755px;
+}
+.rectangle-35 {
+  border-style: dashed;
+  border-color: #7e2990;
+  border-width: 3px;
+  flex-shrink: 0;
+  width: 232px;
+  height: 232px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.ancoraggio {
+  color: #000000;
+  text-align: left;
+  font: 400 25px "Inter", sans-serif;
+  position: relative;
+  width: 154px;
+  height: 56px;
+}
+.frame-25 {
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1003px;
+  top: 1755px;
+}
+.rectangle-37 {
+  border-style: dashed;
+  border-color: #066fc0;
+  border-width: 3px;
+  flex-shrink: 0;
+  width: 233px;
+  height: 232px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.ormeggio {
+  color: #000000;
+  text-align: left;
+  font: 400 25px "Inter", sans-serif;
+  position: relative;
+  width: 154px;
+  height: 56px;
+}
+.capo-milazzo-logo-1-2 {
+  width: 140px;
+  height: 83px;
+  position: absolute;
+  left: 126px;
+  top: 77px;
+}

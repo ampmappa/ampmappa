@@ -1,0 +1,450 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #ffffff;
+  width: 1440px;
+  height: 2718px;
+  position: relative;
+  overflow: hidden;
+}
+.mask-group {
+  position: absolute;
+  left: 0px;
+  top: 151px;
+  overflow: visible;
+}
+.rectangle-3 {
+  position: absolute;
+  left: 0px;
+  top: -0.5px;
+  overflow: visible;
+}
+.home {
+  color: #1d71b8;
+  text-align: left;
+  font: 400 20px "Inter", sans-serif;
+  position: absolute;
+  left: 379px;
+  top: 99px;
+}
+.glossario {
+  color: #1d71b8;
+  text-align: left;
+  font: 400 20px "Inter", sans-serif;
+  position: absolute;
+  left: 561px;
+  top: 99px;
+}
+.cos-l-amp {
+  color: #1d71b8;
+  text-align: left;
+  font: 400 20px "Inter", sans-serif;
+  position: absolute;
+  left: 798px;
+  top: 99px;
+}
+.scopri-capo-milazzo {
+  color: #000000;
+  text-align: left;
+  font: 500 64px "Inter", sans-serif;
+  position: absolute;
+  left: 360px;
+  top: 1046px;
+}
+.scegli-l-area-che-ti-interessa {
+  color: #000000;
+  text-align: left;
+  font: 400 32px "Inter", sans-serif;
+  position: absolute;
+  left: 360px;
+  top: 1144px;
+}
+.mappe-capo-milazzo-trascinato-1 {
+  width: 624px;
+  height: 720px;
+  position: absolute;
+  left: 155px;
+  top: 1339px;
+}
+.ministero-ambiente-territorio-1 {
+  width: 219px;
+  height: 123px;
+  position: absolute;
+  left: 198px;
+  top: 2532px;
+}
+.logo-universita-messina-1 {
+  width: 123px;
+  height: 123px;
+  position: absolute;
+  left: 839px;
+  top: 2532px;
+}
+.citta-di-milazzo-1 {
+  width: 124px;
+  height: 123px;
+  position: absolute;
+  left: 566px;
+  top: 2532px;
+}
+.logo-marevivo-milazzo-1 {
+  width: 149px;
+  height: 123px;
+  position: absolute;
+  left: 1111px;
+  top: 2532px;
+}
+.frame-13 {
+  border-style: solid;
+  border-color: #1d71b8;
+  border-width: 3px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 253px;
+  height: 64px;
+  position: absolute;
+  left: 992px;
+  top: 1396px;
+}
+.zona-a {
+  color: #1d71b8;
+  text-align: left;
+  font: 700 20px "Inter", sans-serif;
+  position: relative;
+}
+.ellipse-2 {
+  background: #d89fa2;
+  border-radius: 50%;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.frame-14 {
+  border-style: solid;
+  border-color: #1d71b8;
+  border-width: 3px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 253px;
+  height: 64px;
+  position: absolute;
+  left: 992px;
+  top: 1494px;
+}
+.zona-b {
+  color: #1d71b8;
+  text-align: left;
+  font: 700 20px "Inter", sans-serif;
+  position: relative;
+}
+.ellipse-22 {
+  background: #e4e56f;
+  border-radius: 50%;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.frame-15 {
+  border-style: solid;
+  border-color: #1d71b8;
+  border-width: 3px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 253px;
+  height: 64px;
+  position: absolute;
+  left: 992px;
+  top: 1592px;
+}
+.zona-bs {
+  color: #1d71b8;
+  text-align: left;
+  font: 700 20px "Inter", sans-serif;
+  position: relative;
+}
+.ellipse-23 {
+  background: #dca15e;
+  border-radius: 50%;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.frame-16 {
+  border-style: solid;
+  border-color: #1d71b8;
+  border-width: 3px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 253px;
+  height: 64px;
+  position: absolute;
+  left: 992px;
+  top: 1690px;
+}
+.zona-c {
+  color: #1d71b8;
+  text-align: left;
+  font: 700 20px "Inter", sans-serif;
+  position: relative;
+}
+.ellipse-24 {
+  background: #acd1e1;
+  border-radius: 50%;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.frame-17 {
+  border-style: solid;
+  border-color: #1d71b8;
+  border-width: 3px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 253px;
+  height: 64px;
+  position: absolute;
+  left: 992px;
+  top: 1788px;
+}
+.ancoraggio {
+  color: #1d71b8;
+  text-align: left;
+  font: 700 20px "Inter", sans-serif;
+  position: relative;
+}
+.loghi-veb-trascinato-1 {
+  flex-shrink: 0;
+  width: 26px;
+  height: 26px;
+  position: relative;
+}
+.frame-18 {
+  border-style: solid;
+  border-color: #1d71b8;
+  border-width: 3px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 253px;
+  height: 64px;
+  position: absolute;
+  left: 992px;
+  top: 1886px;
+}
+.ormeggio {
+  color: #1d71b8;
+  text-align: left;
+  font: 700 20px "Inter", sans-serif;
+  position: relative;
+}
+.loghi-veb-trascinato-2 {
+  flex-shrink: 0;
+  width: 26px;
+  height: 27px;
+  position: relative;
+}
+.zona-a2 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px "Inter", sans-serif;
+  position: absolute;
+  left: 976px;
+  top: 2268px;
+}
+.rectangle-39 {
+  background: #d9d9d9;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 770.83px;
+  top: 2250px;
+}
+.rectangle-40 {
+  position: absolute;
+  left: 0px;
+  top: 2018px;
+  overflow: visible;
+}
+.vector {
+  position: absolute;
+  left: 1068px;
+  top: 2232px;
+  overflow: visible;
+}
+.vector2 {
+  position: absolute;
+  left: 1075px;
+  top: 2240px;
+  overflow: visible;
+}
+.ellipse-10 {
+  background: #d89fa2;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 238px;
+  top: 2238px;
+}
+.zona-a3 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 20px "Inter", sans-serif;
+  position: absolute;
+  left: 303px;
+  top: 2254px;
+}
+.legenda {
+  color: #ffffff;
+  text-align: left;
+  font: 700 25px "Inter", sans-serif;
+  position: absolute;
+  left: 238px;
+  top: 2159px;
+}
+.ellipse-11 {
+  background: #e4e56f;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 238px;
+  top: 2311px;
+}
+.zona-b2 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 20px "Inter", sans-serif;
+  position: absolute;
+  left: 303px;
+  top: 2327px;
+}
+.ellipse-12 {
+  background: #dca15e;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 486px;
+  top: 2238px;
+}
+.zona-bs2 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 20px "Inter", sans-serif;
+  position: absolute;
+  left: 551px;
+  top: 2254px;
+}
+.ellipse-13 {
+  background: #acd1e1;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 486px;
+  top: 2311px;
+}
+.zona-c2 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 20px "Inter", sans-serif;
+  position: absolute;
+  left: 551px;
+  top: 2327px;
+}
+.gavitelli {
+  color: #ffffff;
+  text-align: left;
+  font: 700 20px "Inter", sans-serif;
+  position: absolute;
+  left: 1132px;
+  top: 2248px;
+}
+.aree-ancoraggio {
+  color: #ffffff;
+  text-align: left;
+  font: 700 20px "Inter", sans-serif;
+  position: absolute;
+  left: 810px;
+  top: 2253px;
+}
+.campi-ormeggio {
+  color: #ffffff;
+  text-align: left;
+  font: 700 20px "Inter", sans-serif;
+  position: absolute;
+  left: 810px;
+  top: 2327px;
+}
+.amp-3 {
+  width: 381.13px;
+  height: 204px;
+  position: absolute;
+  left: 505px;
+  top: 395px;
+}
+.loghi-veb-trascinato-12 {
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  left: 1350px;
+  top: 1927px;
+}
+.capo-milazzo-logo-1-1 {
+  width: 140px;
+  height: 83px;
+  position: absolute;
+  left: 126px;
+  top: 77px;
+}
+.ancora-1 {
+  width: 46px;
+  height: 45px;
+  position: absolute;
+  left: 736px;
+  top: 2233px;
+}
+.boa-1 {
+  width: 46px;
+  height: 45px;
+  position: absolute;
+  left: 736px;
+  top: 2306px;
+}
+.image-1 {
+  width: 280px;
+  height: 166px;
+  position: absolute;
+  left: 1017px;
+  top: 86px;
+}
